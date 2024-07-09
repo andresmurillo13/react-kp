@@ -8,7 +8,7 @@ Sigue estos pasos para levantar el proyecto:
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/tu_usuario/tu_repositorio.git
+    git clone https://github.com/andresmurillo13/react-kp.git
     ```
 
 2. Navega al directorio del proyecto:
